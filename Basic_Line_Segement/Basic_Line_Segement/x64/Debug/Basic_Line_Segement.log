@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\Users\jilli\source\repos\Basic_Line_Segement\Basic_Line_Segement\main.cpp(18,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Users\jilli\source\repos\Basic_Line_Segement\Basic_Line_Segement\main.cpp(21,21): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Users\jilli\source\repos\Basic_Line_Segement\Basic_Line_Segement\main.cpp(21,14): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Users\jilli\source\repos\Basic_Line_Segement\Basic_Line_Segement\main.cpp(22,21): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Users\jilli\source\repos\Basic_Line_Segement\Basic_Line_Segement\main.cpp(22,14): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Users\jilli\source\repos\Basic_Line_Segement\Basic_Line_Segement\main.cpp(23,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+  Basic_Line_Segement.vcxproj -> D:\Users\jilli\source\repos\Basic_Line_Segement\x64\Debug\Basic_Line_Segement.exe
+          1 file(s) copied.
